@@ -255,3 +255,4 @@ app.loader.add(assetsMap.sprites);
 app.loader.load(runGame)
 
 window.STAGE = app.stage;
+//hola
