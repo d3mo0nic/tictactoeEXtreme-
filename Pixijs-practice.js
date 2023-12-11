@@ -1,4 +1,3 @@
-
 /*
 1) we will analyse the game
 - There is a 3x3 grid of cells so 9 cells in total
